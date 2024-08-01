@@ -1,4 +1,5 @@
 .DS_Store
 *.nix
 .replit
+*/.config/*
 */*/.config/*
